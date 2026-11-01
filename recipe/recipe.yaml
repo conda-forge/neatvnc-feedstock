@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.3"
+  version: "1.0.4"
 
 package:
   name: neatvnc
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/any1/neatvnc/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 7a54d1b950f8898ea4be0f9b0e0d3ab4065812a8f6517707a8e02a384fe9af4a
+  sha256: c40d74bb788a60519e6c926f04515502de7859abcfd74f2a18f97bd02f4dc231
 
 build:
   number: 0
